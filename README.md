@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Balajisk03
-- 👀 I’m interested in full stack web development
-- 🌱 I’m currently learning Web development 
-- 💞️ I’m looking to collaborate on web development projects  
+- 👀 I’m interested in Devops Cloud Engineer
+- 🌱 I’m currently working as Cloud Engineer
+- 💞️ I’m looking to collaborate on Devops Project  
 - 📫 How to reach me 7418910512
 
 <!---
