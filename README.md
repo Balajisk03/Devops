@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Balaji Sivakumar
-- 👀 I’m interested in Devops Cloud Engineer
+- 👀 I’m interested in AWS Devops Cloud
 - 🌱 I’m currently working as Cloud Engineer in Cognizant Technology Solutions
-- 💞️ I’m looking to collaborate on Devops Project  
+- 💞️ I’m looking to collaborate on Devops Projects
 - 📫 Reach me -> 7418910512
 
 <!---
